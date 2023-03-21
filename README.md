@@ -18,29 +18,3 @@ Diseño y modelado en página WEB, para poder usarla de forma hibrida (Web y Mó
 Realización de pruebas en la app
 Se realizaron distintas pruebas en la app antes del lanzamiento, las cuales nos arrojaron errores que se pudieron solventar en el camino, como la generación del ticket con la reglamentación actual de la SAT. Tambien se nos genero un error en la reporteria de los servicios que los clientes mas solicitan, por lo que se opto por que la reporteria tenga una generación de archivos en formato Excel que se estarán guardando en la nube, para poder graficar y ver datos estadísticos de los mismos. Por lo que esta recibirá actualizaciones constantes para que esta no se deteriore.
 
-
-**Diseño de la aplicación**
-
-*Objetivo de la aplicación
-
-Servicio de Lavado de clientes
-
-Registro de clientes
-
-Ingresar y dar ticket para el cliente.
-
-Cobro de servicio mediante tipo de servicio
-
-Reporteria de servicios mensualmente
-
-*Concepto de la aplicación
-
-Ofrecer servicio de lavado hacia los clientes que sean registrados, cobrándoles el tipo de servicio mediante un ticket que sea vigente según reglamentación de la SAT.
-
- *Tecnología implementada en app
-
-Diseño y modelado en página WEB, para poder usarla de forma hibrida (Web y Móvil). Tendremos en cuenta que los clientes ya estarán registrados, por lo que sus prendas y tipo de servicio que solicitan cada vez que lo requieren ya tendrán una configuración guardada en la aplicación, para que sea más fácil el uso del servicio. La interfaz de la aplicación será agradable y fácil de utilizar para que los clientes se sientan satisfechos con el servicio tanto del que se les brinda como el que obtienen en la aplicación.
-
-*Realización de pruebas en la app
-
-Se realizaron distintas pruebas en la app antes del lanzamiento, las cuales nos arrojaron errores que se pudieron solventar en el camino, como la generación del ticket con la reglamentación actual de la SAT. Tambien se nos genero un error en la reporteria de los servicios que los clientes mas solicitan, por lo que se opto por que la reporteria tenga una generación de archivos en formato Excel que se estarán guardando en la nube, para poder graficar y ver datos estadísticos de los mismos. Por lo que esta recibirá actualizaciones constantes para que esta no se deteriore.
