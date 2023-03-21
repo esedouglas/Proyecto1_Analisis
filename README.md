@@ -18,7 +18,7 @@ Diseño y modelado en página WEB, para poder usarla de forma hibrida (Web y Mó
 Realización de pruebas en la app
 Se realizaron distintas pruebas en la app antes del lanzamiento, las cuales nos arrojaron errores que se pudieron solventar en el camino, como la generación del ticket con la reglamentación actual de la SAT. Tambien se nos genero un error en la reporteria de los servicios que los clientes mas solicitan, por lo que se opto por que la reporteria tenga una generación de archivos en formato Excel que se estarán guardando en la nube, para poder graficar y ver datos estadísticos de los mismos. Por lo que esta recibirá actualizaciones constantes para que esta no se deteriore.
 
-*Metodologia de desarrollo*
+**Metodologia de desarrollo**
 *Requisitos
 Lavanderia
 Presupuesto para creación de APP
@@ -31,8 +31,10 @@ Servicio al cliente
 5. Scrum Development
 *Implementacion
 Publicacion y publicidad a travez de los distintos medios de comunicación.
+
 *Verificacion
 Darle el visto bueno al producto, comprobando y ejecutando la aplicación con los clientes, para verificar su funcionabilidad. Validar los aspectos mas importantes de la aplicación, como el registro de todos los clientes.
+
 *Documentar las pruebas*
 Pruebas y errores dados por parte de la Aplicación se han ido documentando, para que los DevOps, puedan darle solución y actualización constante a la misma.
 Con esto tendremos prueba y error dentro de la aplicación. Se podrá solucionar los mismos.
